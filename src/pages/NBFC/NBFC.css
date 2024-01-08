@@ -1,0 +1,11 @@
+.nbfc-header {
+  background-image: url("../../../public/Assets/Images/nbfc/nbfcbg.png");
+  height: 40vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.nbfc-faq-div {
+  padding: 30px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 4px 8px -1px, rgba(0, 0, 0, 0.3) 0px 2px 4px -2px !important;
+}

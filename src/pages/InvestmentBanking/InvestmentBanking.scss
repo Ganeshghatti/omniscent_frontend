@@ -1,0 +1,19 @@
+.investment-header {
+  background-image: url("../../../public/Assets/Images/nbfc/nbfcbg.png");
+  height: 40vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.investment-sec-bg {
+  background-size: 100% 100%;
+  background-position: 0px 0px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;
+  background-image: radial-gradient(
+      49% 81% at 45% 47%,
+      #1f20ae 0%,
+      #073aff00 100%
+    ),
+    radial-gradient(113% 91% at 17% -2%, #4633d7 1%, #ff000000 99%),
+    radial-gradient(142% 91% at 83% 7%, #4633d7 1%, #ff000000 99%),
+    radial-gradient(142% 91% at -6% 74%, #1f20ae 1%, #ff000000 99%),
+    radial-gradient(142% 91% at 111% 84%, #1f20ae 0%, #f8f2f2ff 100%);
+}
